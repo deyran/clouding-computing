@@ -15,4 +15,27 @@
 * Cloud Providers 12:42 
 * Azure Fundamentals 25:12 
 
- # Getting  Started 25:16
+# Getting  Started 25:16
+* Getting Started with Azure 25:17 
+* What is Microsoft Azure? 27:42 
+
+# Use Case 28:18 
+# implementing in Azure 33:05  
+# Azure Pricing 1:23:07
+# Storage Domain 1:28:33
+# Network Domain 2:12:36
+## Demo 2:20:02
+# Access Management 3:08:23
+## Azure AD 3:08:30
+# Azure Devops 3:36:05
+# Azure Data Factory 4:20:22
+# Important services and pointers 4:59:15
+## Azure ML 4:59:19
+## Azure IoT 5:34:57 
+## Azure Bot Service 5:57:37 
+# AWS vs AZURE vs GCP 6:41:05
+# Top 10 reasons to learn 6:51:23
+# Cloud careers 6:59:02
+## interview qns 6:59:06
+## Cloud Er. Salary, skill &...  7:36:08
+## Cloud Er. skill requirements  7:47:04
