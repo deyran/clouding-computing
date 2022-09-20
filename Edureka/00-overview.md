@@ -68,7 +68,15 @@
 * Components of Azure DevOps 3:42:21 
 * Azure Boards 3:48:11
 
-# Azure Data Factory 4:20:22
+# Azure Data Factory 4:20:16
+* Why Data Factory? 4:21:21 
+* What is Data Factory? 4:23:06
+* Data Factory Concepts 4:25:51
+* What is Data Lake? 4:27:26
+* Data Lake Concepts 4:29:01
+* Data Lake vs Data Warehouse 4:33:31
+* Demo: Move Data From SQL DB to Blog Storage 4:36:46
+
 # Important services and pointers 4:59:15
 ## Azure ML 4:59:19
 ## Azure IoT 5:34:57 
