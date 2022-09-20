@@ -19,8 +19,11 @@
 * Getting Started with Azure 25:17 
 * What is Microsoft Azure? 27:42 
 
-# Use Case 28:18 
-# implementing in Azure 33:05  
+# Use Case 28:18
+* How will we implement this? 30:02
+
+# Implementing in Azure 33:05
+  
 # Azure Pricing 1:23:07
 # Storage Domain 1:28:33
 # Network Domain 2:12:36
@@ -37,5 +40,5 @@
 # Top 10 reasons to learn 6:51:23
 # Cloud careers 6:59:02
 ## interview qns 6:59:06
-## Cloud Er. Salary, skill &...  7:36:08
-## Cloud Er. skill requirements  7:47:04
+## Cloud Er. Salary, skill &... 7:36:08
+## Cloud Er. skill requirements 7:47:04
