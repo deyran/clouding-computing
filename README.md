@@ -1,2 +1,0 @@
-# microsoft-azure-training
- 
