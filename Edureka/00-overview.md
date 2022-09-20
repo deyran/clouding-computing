@@ -79,9 +79,25 @@
 
 # Important services and pointers 4:59:15
 ## Azure ML 4:59:19
+* Azure Machine Learning 4:59:26
+* Machine Learning 5:01:26
+* Machine Learning Algorithms 5:06:01
+* Various Processes in ML Lifecycle 5:08:36
+* Microsoft Azure ML Studio 5:11:41
+* Azure IoT 5:34:56
 ## Azure IoT 5:34:57 
+* What is IoT? 5:35:46
+* IoT on Azure 5:41:11 
+* Azure IoT Components 5:44:56
+* Azure BoT Service 5:57:31
 ## Azure Bot Service 5:57:37 
+* What are ChatBots? 6:00:31
+* Need for Chatbots 6:04:36
+* Demo: Creating a ChatBot for Facebook Messenger 6:07:51
+
 # AWS vs AZURE vs GCP 6:41:05
+
+
 # Top 10 reasons to learn 6:51:23
 # Cloud careers 6:59:02
 ## interview qns 6:59:06
