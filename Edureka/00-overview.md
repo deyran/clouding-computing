@@ -23,13 +23,45 @@
 * How will we implement this? 30:02
 
 # Implementing in Azure 33:05
-  
-# Azure Pricing 1:23:07
+* Azure Components 34:02 
+* App Service 34:12 
+* Compute Domain 34:22
+* Blob Storage 40:57
+* Storage Domain 41:22
+* MySQL for Azure 46:16
+* Auto Scaling & Load Balancing 46:49
+* How to launch services in Azure? 49:43
+* Demo 1:04:53
+
+# Azure Pricing 1:23:07 
+
 # Storage Domain 1:28:33
+* Why Storage? 1:29:33
+* Storage vs Database 1:33:48
+* What is Azure Storage? 1:34:58
+* Components of Azure Storage 1:41:38
+
 # Network Domain 2:12:36
+* Virtual Networks 2:12:40
+* What is Virtual Machine? 2:13:35
+* Why Virtual Networks? 2:14:35
+* What is Virtual Network? 2:15:35
+* What are Azure Subnet? 2:16:50
+* Network Security Groups 2:18:35
+* Virtual Network Architecture 2:19:05
+
 ## Demo 2:20:02
+
 # Access Management 3:08:23
-## Azure AD 3:08:30
+* Access Management 3:08:24
+## Azure AD 3:08:30 
+* Azure Active Directory 3:08:34
+* What is Azure Active Directory? 3:09:14
+* Windows AD vs Azure AD 3:12:26
+* Service Audience 3:14:11
+* Azure Active Directory Editions 3:15:56
+* Azure Active Directory Tenants 3:16:31
+
 # Azure Devops 3:36:05
 # Azure Data Factory 4:20:22
 # Important services and pointers 4:59:15
