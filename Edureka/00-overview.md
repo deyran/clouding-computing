@@ -63,6 +63,11 @@
 * Azure Active Directory Tenants 3:16:31
 
 # Azure Devops 3:36:05
+* Azure DevOps 3:36:06
+* What is DevOps? 3:36:26
+* Components of Azure DevOps 3:42:21 
+* Azure Boards 3:48:11
+
 # Azure Data Factory 4:20:22
 # Important services and pointers 4:59:15
 ## Azure ML 4:59:19
