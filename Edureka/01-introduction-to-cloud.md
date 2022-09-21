@@ -11,12 +11,13 @@
 ## [What is cloud?](https://youtu.be/tDuruX7XSac?t=376)
 Cloud computing is *storing/Processing/Accessing* data/applications on remote services via internet in anywhere;
 
-## Services models
+## [Services models](https://youtu.be/tDuruX7XSac?t=522)
+
 ## Deployment models
 ## Cloud demo
 
 <!--
 # Azure Tutorial For Beginners | Edureka
     ## Introduction to Cloud
-        ## Why cloud?
+        ## Services models
 -->
