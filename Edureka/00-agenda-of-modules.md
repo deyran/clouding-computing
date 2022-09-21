@@ -7,9 +7,3 @@
 6. Azure devops
 7. Important services and pointers
 8. Cloud career
-
-<!--
-# Azure Tutorial For Beginners | Edureka
-    ## Agenda of modules
--->
-
