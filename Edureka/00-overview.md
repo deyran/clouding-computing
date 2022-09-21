@@ -1,4 +1,4 @@
-# Introduction [00:00](https://youtu.be/tDuruX7XSac)
+# Introduction 
 * intro to Cloud 2:28
 * Why Cloud? 3:02
 * Before Cloud Computing 3:07
