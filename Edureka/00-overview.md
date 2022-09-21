@@ -97,9 +97,27 @@
 
 # AWS vs AZURE vs GCP 6:41:05
 
-
 # Top 10 reasons to learn 6:51:23
+* Security 6:51:36
+* Integration 6:52:16
+* Analytics & ML 6:53:06
+* DevOps 6:53:51
+* Hybrid Capabilities 6:54:26
+* PaaS Offerings 6:55:01
+* 6:55:26 Learning Curve
+* 6:55:46 Scalability
+* 6:56:26 Cost Efficient
+* 6:57:11 The Final View
+
 # Cloud careers 6:59:02
+
 ## interview qns 6:59:06
+* Azure Interview Questions 6:59:11  
+* Cloud Engineer Jobs, Salary, Skills & Responsibilities 7:36:06  
+
 ## Cloud Er. Salary, skill &... 7:36:08
-## Cloud Er. skill requirements 7:47:04
+* Cloud Engineer Job & Salary Trends 7:36:41  
+
+## Cloud Er. skill requirements 7:47:04  
+* Cloud Engineer Job Skills & Description 7:46:51
+* Cloud Engineer Responsibilities  7:51:51
