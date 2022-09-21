@@ -13,7 +13,7 @@ Cloud computing is *storing/Processing/Accessing* data/applications on remote se
 
 ## [Services models](https://youtu.be/tDuruX7XSac?t=522)
 1. IaaS
-2. PaaS
+2. PaaS - **P**latform **a**s **a** **S**ervice
 3. SaaS - **S**oftware **a**s **a** **S**ervice
 Cloud provider leases application or software which are owned by them to its client. Example: *Gmail* 
 
