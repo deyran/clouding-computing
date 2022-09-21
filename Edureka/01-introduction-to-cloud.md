@@ -8,7 +8,9 @@
 2. Troubleshooting computer services that conflict with business objectives
 3. Since the traffic is varying, your servers will be idle most of the time
 
-## What is cloud?
+## [What is cloud?](https://youtu.be/tDuruX7XSac?t=376)
+Cloud computing is *storing/Processing/Accessing* data/applications on remote services via internet in anywhere;
+
 ## Services models
 ## Deployment models
 ## Cloud demo
