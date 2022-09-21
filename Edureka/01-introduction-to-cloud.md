@@ -12,6 +12,9 @@
 Cloud computing is *storing/Processing/Accessing* data/applications on remote services via internet in anywhere;
 
 ## [Services models](https://youtu.be/tDuruX7XSac?t=522)
+1. IaaS
+2. PaaS
+3. SaaS - **S**oftware **a**s **a** **S**ervice
 
 ## Deployment models
 ## Cloud demo
