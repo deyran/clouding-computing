@@ -24,4 +24,6 @@ Cloud provider leases application or software which are owned by them to its cli
 # Azure Tutorial For Beginners | Edureka
     ## Introduction to Cloud
         ## Services models
+        
+        https://youtu.be/tDuruX7XSac?t=614
 -->
