@@ -13,13 +13,6 @@ O cloud computing proporciona às empresas mais flexibilidade em relação a dad
 ## Como funciona a computação na nuvem?
 O cloud computing é acessado via internet por meio de computadores, smartphone e acessórios portáteis, data centers e etc. Uma vez acessado, o cloud computing disponibiliza três *modelos de serviços*: Saas, Paas e Iaas.
 
-<!--
-salesforce.com
-    CLOUD COMPUTING: O QUE É E PARA QUE SERVE?
-        Como funciona a computação na nuvem?
-            IaaS - Infrastructure As A Service
--->
-
 * Saas - **S**oftware **A**s **A** **S**ervice  
 Ele disponibiliza o aplicativo de software (sem a necessidade de compra de licensa) ao usuário por meio de uma interface de navegador ou de programa e faz com que a rede subjacente, o sistema operacional e os recursos funcionem nos bastidores. 
 
@@ -27,12 +20,15 @@ Ele disponibiliza o aplicativo de software (sem a necessidade de compra de licen
 No modelo de serviço *Paas*, o usuário, utiliza o que o modelo Saas oferece com a liberdade de desenvolver aplicações personalizados de softwares. O provedor é responsável pela manutenção do sistema operacional, da rede, dos servidores e da segurança. 
 
 * IaaS - **I**nfrastructure **A**s **A** **S**ervice
-Neste modelo de serviço é oferecido ao usuário flexibilidade, controle do servidor e sobre os recursos de tecnologia sem preocupações com requisitos de hardware.
- 
+Neste modelo de serviço é oferecido ao usuário flexibilidade, controle do servidor e sobre os recursos de tecnologia sem preocupações com requisitos de hardware.  
 
-
-
-## Que tipo de Cloud Computing é o certo para você?
 ## Por que usar Cloud Computing?
+<!--
+salesforce.com
+    CLOUD COMPUTING: O QUE É E PARA QUE SERVE?
+        Como funciona a computação na nuvem?
+            Por que usar Cloud Computing?
+-->
+
 ## Principais características do Cloud Computing
 ## 6 motivos para mudar para o Cloud Computing
