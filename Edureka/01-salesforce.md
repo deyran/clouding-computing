@@ -1,5 +1,5 @@
 # [CLOUD COMPUTING: O QUE É E PARA QUE SERVE?](https://www.salesforce.com/br/cloud-computing/)
-* Cloud computing é uma tecnologia que permite **acesso remoto**, via internet, de recursos digitais relacionados a:
+* Cloud computing é uma tecnologia que permite *acesso remoto*, via internet, de recursos digitais relacionados a:
 1. Softwares
 2. armazenamento de arquivos
 3. processamento de dados
@@ -11,15 +11,16 @@ Este mecanismo oferece aos indivíduos e às empresas a capacidade de um pool de
 O cloud computing proporciona às empresas mais flexibilidade em relação a dados e informações, que podem ser acessados a qualquer hora. É ideal para empresas com sedes ao redor do mundo ou em diferentes ambientes de trabalho, abrangendo locais remotos. Com o mínimo de gerenciamento, todos os elementos de software da computação na nuvem podem ser dimensionados sob demanda: você precisa apenas de uma conexão à internet.
 
 ## Como funciona a computação na nuvem?
-O cloud computing é acessado via internet por meio de computadores, smartphone e acessórios portáteis, data centers e etc. Uma vez acessado, o cloud computing disponibiliza três modelos de serviços: Saas, Paas e Iaas.
+O cloud computing é acessado via internet por meio de computadores, smartphone e acessórios portáteis, data centers e etc. Uma vez acessado, o cloud computing disponibiliza três *modelos de serviços*: Saas, Paas e Iaas.
 
 <!--
 salesforce.com
     CLOUD COMPUTING: O QUE É E PARA QUE SERVE?
         Como funciona a computação na nuvem?
+            Saas - Software as a Service
 -->
 
-
+* Saas - **S**oftware **a**s **a** **S**ervice
 SaaS
 O modelo SaaS  – software como serviço de computação na nuvem – é o mais conhecido entre as empresas. Ele disponibiliza o aplicativo de software ao usuário por meio de uma interface de navegador ou de programa e faz com que a rede subjacente, o sistema operacional e os recursos funcionem nos bastidores. Não é necessário comprar o software, pois o serviço é contratado por meio de assinaturas que dão permissão de acesso. Logo, o uso dos aplicativos pode ser feito de qualquer dispositivo conectado à internet.
 
