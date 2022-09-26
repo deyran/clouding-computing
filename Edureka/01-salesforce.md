@@ -20,10 +20,8 @@ salesforce.com
             Saas - Software as a Service
 -->
 
-* Saas - **S**oftware **a**s **a** **S**ervice
-SaaS
-O modelo SaaS  – software como serviço de computação na nuvem – é o mais conhecido entre as empresas. Ele disponibiliza o aplicativo de software ao usuário por meio de uma interface de navegador ou de programa e faz com que a rede subjacente, o sistema operacional e os recursos funcionem nos bastidores. Não é necessário comprar o software, pois o serviço é contratado por meio de assinaturas que dão permissão de acesso. Logo, o uso dos aplicativos pode ser feito de qualquer dispositivo conectado à internet.
-
+* Saas - **S**oftware **a**s **a** **S**ervice  
+Ele disponibiliza o aplicativo de software (sem compra de licensa) ao usuário por meio de uma interface de navegador ou de programa e faz com que a rede subjacente, o sistema operacional e os recursos funcionem nos bastidores. 
 
 PaaS
 O modelo PaaS – plataforma como serviço – aproveita os benefícios da computação na nuvem enquanto mantém a liberdade de desenvolver aplicações personalizadas de software. Os usuários podem acessar a PaaS da mesma maneira que fazem com o aplicativo SaaS. O provedor é responsável pela manutenção do sistema operacional, da rede, dos servidores e da segurança. Pode haver também abstrações em nível de aplicativo que aceleram o desenvolvimento de apps e a implementação de vários dispositivos. Fora isso, uma plataforma tradicional em execução em um pool remoto vai gerar alguns benefícios de capacidade flexível, mas não se pode esperar que acelere a inovação da empresa.
