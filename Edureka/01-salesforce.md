@@ -17,7 +17,7 @@ O cloud computing é acessado via internet por meio de computadores, smartphone 
 salesforce.com
     CLOUD COMPUTING: O QUE É E PARA QUE SERVE?
         Como funciona a computação na nuvem?
-            PaaS - Plataform as a Service
+            IaaS - Infrastructure As A Service
 -->
 
 * Saas - **S**oftware **A**s **A** **S**ervice  
@@ -26,8 +26,8 @@ Ele disponibiliza o aplicativo de software (sem a necessidade de compra de licen
 * PaaS - **P**lataform **A**s **A** **S**ervice
 No modelo de serviço *Paas*, o usuário, utiliza o que o modelo Saas oferece com a liberdade de desenvolver aplicações personalizados de softwares. O provedor é responsável pela manutenção do sistema operacional, da rede, dos servidores e da segurança. 
 
-IaaS - Infrastructure As a Service
-O modelo IaaS – infraestrutura como serviço –  é o modelo de serviço com maior nível de flexibilidade e controle sobre os recursos de tecnologia. Ele proporciona às organizações a capacidade de aproveitar recursos brutos do servidor enquanto o restante do gerenciamento da plataforma e do software é de responsabilidade da empresa. Isso permite capacidade extra sem a preocupação com requisitos de hardware.
+* IaaS - **I**nfrastructure **A**s **A** **S**ervice
+Neste modelo de serviço é oferecido ao usuário flexibilidade, controle do servidor e sobre os recursos de tecnologia sem preocupações com requisitos de hardware.
  
 
 
