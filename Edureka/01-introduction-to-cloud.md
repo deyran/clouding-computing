@@ -9,7 +9,20 @@
 3. Since the traffic is varying, your servers will be idle most of the time
 
 ## [What is cloud?](https://youtu.be/tDuruX7XSac?t=376)
-Cloud computing is *storing/Processing/Accessing* data/applications on remote services via internet in anywhere;
+
+1. https://www.salesforce.com/br/cloud-computing/
+2. https://aws.amazon.com/pt/what-is-cloud-computing/
+3. https://rockcontent.com/br/blog/cloud-computing/
+4. https://www.mandic.com.br/cloud/
+5. https://www.softwareone.com/pt-br/blog/artigos/2020/01/25/afinal-o-que-e-cloud-computing
+6. https://www.infowester.com/cloudcomputing.php
+
+
+<!--
+# Azure Tutorial For Beginners | Edureka
+    ## Introduction to Cloud
+        ## What is cloud?
+-->
 
 ## [Services models](https://youtu.be/tDuruX7XSac?t=522)
 1. IaaS
@@ -19,11 +32,3 @@ Cloud provider leases application or software which are owned by them to its cli
 
 ## Deployment models
 ## Cloud demo
-
-<!--
-# Azure Tutorial For Beginners | Edureka
-    ## Introduction to Cloud
-        ## Services models
-        
-        https://youtu.be/tDuruX7XSac?t=614
--->
