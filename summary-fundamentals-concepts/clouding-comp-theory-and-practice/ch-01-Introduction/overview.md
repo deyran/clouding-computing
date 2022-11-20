@@ -19,10 +19,10 @@ In utility computing the hardware and software resources are concentrated in lar
     >> Utility computing > resources > data centers > users can pay as they consume
 
 Utility computing often requires a cloud-like infrastructure, but its focus is on the business model for providing the computing services. 
-    >> Utility computing > business model > computing services
+    >> Utility computing > business model > provide computing services
 
 Cloud computing is a path to utility computing embraced by major IT companies such as Amazon, Apple, Google, HP, IBM, Microsoft, Oracle, and others.
-
+    >> Cloud computing > utility computing > TI companies
 
 
 <!--
