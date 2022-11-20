@@ -24,6 +24,35 @@ Utility computing often requires a cloud-like infrastructure, but its focus is o
 Cloud computing is a path to utility computing embraced by major IT companies such as Amazon, Apple, Google, HP, IBM, Microsoft, Oracle, and others.
     >> Cloud computing > utility computing > TI companies
 
+=============================================================================================
+The Cloud computing is divided in 5 aspects:
+1. Delivery models
+    1. Saas - Software as a Service
+    2. PaaS - Plataform as a Service
+    3. IaaS - Infrastructure as a Service 
+
+2. Deployment models
+    1. Public cloud
+    2. Private cloud
+    3. Comunity cloud
+    4. Hybrid cloud
+
+3. Infrastrucuture
+    1. Distributed Infrastructure
+    2. Resource virtualization
+    3. Autonomous systems
+
+4. Resources
+    1. Compute & storage servers
+    2. Networks
+    3. Services
+    4. Applications
+
+5. Defining atributes
+    1. Massive infrastructure
+    2. Utility computing - Pay-per-usage
+    3. Accessible via the internet
+    4. Elasticity
 
 <!--
 CHAPTER 1 Introduction 1
