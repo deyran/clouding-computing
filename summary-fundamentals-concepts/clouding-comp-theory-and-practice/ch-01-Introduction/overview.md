@@ -1,5 +1,17 @@
 # CHAPTER 1 Introduction 1
+The last decades have reinforced the idea that information processing can be done more efficiently
+centrally, on large farms of computing and storage systems accessible via the Internet
 
+    >> Information processing > effeciently
+        > centrally on large farms of computing 
+        > storage systems accessible via the Internet. 
+
+
+When computing resources in distant data centers are used rather than local computing systems, we talk about network-centric computing and network-centric content. 
+
+
+
+Advancements in networking and other areas are responsible for the acceptance of the two new computing models and led to the grid computing movement in the early 1990s and, since 2005, to utility computing and cloud computing
 <!--
 CHAPTER 1 Introduction 1
     
