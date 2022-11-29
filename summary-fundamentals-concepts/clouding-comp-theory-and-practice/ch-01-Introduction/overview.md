@@ -1,4 +1,10 @@
 # CHAPTER 1 Introduction 1
+* Information can be done efficiently centrally on large farms of computing and storege by systems accessible via the internt.
+
+* When the computer resources is used in remote data center, this concepts fits in two terms: 
+1. Network-centric computing
+2. Network-centric content 
+
 <!--
 CHAPTER 1 Introduction 1
 -->
