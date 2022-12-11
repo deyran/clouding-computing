@@ -29,8 +29,10 @@ The defining attributes of the new philosophy for delivering computing services 
 * Maintenance and security are ensured by service providers
     => Maintenance - The process of continuing something or keeping it in existence
 
-* Economy of scale allows services providers to operate more efficiently due to specialization and centralization
-
+* Economy of scale allows services providers to operate more efficiently *due to* specialization and centralization
+    => due to - Because of
+    
+* Cloud computing is cost-effective due to resource multiplexing; lower cost for the service provider are passed on to the cloud users
 <!--
 CHAPTER 1 Introduction 1
 -->
