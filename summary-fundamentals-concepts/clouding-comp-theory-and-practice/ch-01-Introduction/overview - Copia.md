@@ -36,7 +36,18 @@ The defining attributes of the new philosophy for delivering computing services 
     => Cost-effective - Producing good results withou costing a lot of money
     => Multiplex - Consisting of many elements in complex relationship
 
-* The application data is stored closer to the site where it is used in a device- and location-independent manner; potentially, this data storege strategy increases reliability and security and, at the same time, it lowers communication costs    
+* The application data is stored closer to the site where it is used in a device- and location-independent manner; potentially, this data storege strategy increases reliability and security and, at the same time, it lowers communication costs  
+    => Reliability - The quality of being trustworthy or of performing consistently well
+=============================================================================================
+
+Cloud computing is a technical and social reality and an emerging technology. At this time, one can only speculate how the infrastructure for this new paradigm will evolve and what applications will migrate to it.
+    => Social - Relating to society or its organization  
+    => Emerging - becoming apparent or prominent
+    
+
+
+
+
 <!--
 CHAPTER 1 Introduction 1
 -->
