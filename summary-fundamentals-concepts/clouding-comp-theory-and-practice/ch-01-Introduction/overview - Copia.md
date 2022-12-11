@@ -13,40 +13,23 @@ In **utility computing** the hardware and software **resources** are concentrate
 Cloud computing is a path to utility computing embraced by major IT companies such as Amazon, Apple, Google, HP, IBM, Microsoft, Oracle, and others.
 =============================================================================================
 
-The Cloud computing is divided in 5 aspects:
-1. Delivery models
-    1. Saas - Software as a Service
-    2. PaaS - Plataform as a Service
-    3. IaaS - Infrastructure as a Service 
+Cloud computing delivery models, deployment models, defining attributes, resources, and organization of the infrastructure discussed in this chapter are summarized in Figure 1.1
 
-2. Deployment models
-    1. Public cloud
-    2. Private cloud
-    3. Comunity cloud
-    4. Hybrid cloud
-
-3. Infrastrucuture
-    1. Distributed Infrastructure
-    2. Resource virtualization
-    3. Autonomous systems
-
-4. Resources
-    1. Compute & storage servers
-    2. Networks
-    3. Services
-    4. Applications
-
-5. Defining atributes
-    1. Massive infrastructure
-    2. Utility computing - Pay-per-usage
-    3. Accessible via the internet
-    4. Elasticity
+There are three cloud delivery models: Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), and Infrastructure-as-a-Service (IaaS), deployed as public, private, community, and hybrid clouds
 =============================================================================================
 
+The defining attributes of the new philosophy for delivering computing services are as follows:
+
+* Cloud computing uses Internet technologies to offer elastic services. The term elastic computing refers to the ability to dynamically acquire computing resources and support a variable workload. A cloud service provider maintains a massive infrastructure to support elastic services.
+
+* The resources used for these services can be *metered* and the users can be *charged* only for the resources they use.  
+    => Metered - To meter something such as gas or electricity means to use a meter to measure how much of it people use, usually in order to calculate how much they have to pay
+    => Chaged - A charge is amount of money that you have to pay for a service
+
+* Maintenance and security are ensured by service providers
 <!--
 CHAPTER 1 Introduction 1
 -->
-=============================================================================================
 
 ## 1.1 Network-Centric Computing and Network-Centric Content
 ## 1.2 Peer-to-Peer Systems
