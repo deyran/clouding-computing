@@ -27,6 +27,10 @@ The defining attributes of the new philosophy for delivering computing services 
     => Chaged - A charge is amount of money that you have to pay for a service
 
 * Maintenance and security are ensured by service providers
+    => Maintenance - The process of continuing something or keeping it in existence
+
+* Economy of scale allows services providers to operate more efficiently due to specialization and centralization
+
 <!--
 CHAPTER 1 Introduction 1
 -->
