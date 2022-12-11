@@ -40,13 +40,12 @@ The defining attributes of the new philosophy for delivering computing services 
     => Reliability - The quality of being trustworthy or of performing consistently well
 =============================================================================================
 
-Cloud computing is a technical and social reality and an emerging technology. At this time, one can only speculate how the infrastructure for this new paradigm will evolve and what applications will migrate to it.
+Cloud computing is a technical and social reality and an emerging technology. At this time, one can only speculate how the infrastructure for this new paradigm will evolve and what applications will migrate to it. The economical, social, ethical, and legal implications of this shift in technology, in which users rely on services provided by large data centers and store private data and software on systems they do not control, are likely to be significant
     => Social - Relating to society or its organization  
     => Emerging - becoming apparent or prominent
-    
-
-
-
+    => Shift - To change or cause to change gradually
+    => Rely on - To need (someone or something) for support, help, etc; To depend on (someone or something)
+    => Likely - If something is likely, it will probably happen or is expected
 
 <!--
 CHAPTER 1 Introduction 1
