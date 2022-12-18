@@ -86,6 +86,14 @@ As always, a good idea has generated a hight level of excitement that translated
     => Flurry - a sudden commotion or burst of activity
     => Sholarly - Book or article contains a lot of academic information and is intended for academic readers
 
+In this book we attempt to sift through the large volume of information and dissect the main ideas related to cloud computing.    
+    => Attempt - Synonyms -> Try
+    => Sift through - To carefully go through a set of objects, or a collection of information, in order to find something
+    => Dissect - Methodically cut up (a body, part, or plant) in order to study its internal parts.
+
+We first discuss applications of clouding computing and the analyze the infrastructure for the technology.    
+=============================================================================================
+
 <!--
-CHAPTER 1 Introduction 1
+CHAPTER 1 Introduction 3
 -->
