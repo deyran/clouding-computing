@@ -70,6 +70,8 @@ This shift in focus reflected by Google's strategy to build a dedicated cloud fo
 
 The company states: "We recognize that government agencies have unique regulatory and compliance requirements for IT systems, and cloud computing is no exception. So we've invested a lot of time in understanding government's needs and how they relate to cloup computing."
 	=> State - To say or write something, espcially cleary and carefully
+=============================================================================================
+
 <!--
 CHAPTER 1 Introduction 1
 -->
