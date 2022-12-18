@@ -46,18 +46,23 @@ Cloud computing is a technical and social reality and an emerging technology. At
     => Shift - To change or cause to change gradually
     => Rely on - To need (someone or something) for support, help, etc; To depend on (someone or something)
     => Likely - If something is likely, it will probably happen or is expected
+=============================================================================================
+
+Scientific and engineering applications, data mining, computational financing, gaming, and social networking as well as other computational and data-intensive activities can benefit from cloud computing. 
+
+A broad range of data, from the results of high-energy physics experiments to financial or enterprise management data to personal data such as photos, videos, and movies, can be stored on the cloud.
+    => Broad range - a group that includes many different things or people
+=============================================================================================
+
+In early 2011 Apple announced the ICloud, a network-centric alternative for storing content such as music, videos, movies, and personal information; this content was previously confined to personal devices such as workstations, laptops, tablets, or smartphones.
+    => In early - Means near the beginning of a day, week, year, or other period of time.
+    => Workstation - An area with equipment for the performance of a specialized task usually by a single individual
+
+The obvious advantage of network-centric is the accessibility of information from any site where users can connect to the Internet.
+
+Clearly, information stored on a cloud can be shared easily, but this approach raises major concerns: Is the information safe and secure? Is it accessible when we need it? Do we still own it?
+=============================================================================================
 
 <!--
 CHAPTER 1 Introduction 1
 -->
-
-## 1.1 Network-Centric Computing and Network-Centric Content
-## 1.2 Peer-to-Peer Systems
-## 1.3 Cloud Computing: An Old Idea Whose Time has Come
-## 1.4 Cloud Computing Delivery Models and Services
-## 1.5 Ethical Issues in Cloud Computing
-## 1.6 Cloud Vulnerabilities
-## 1.7 Major Challenges Faced by Cloud Computing
-## 1.8 Further Reading
-## 1.9 History Notes
-## 1.10 Exercises and Problems
