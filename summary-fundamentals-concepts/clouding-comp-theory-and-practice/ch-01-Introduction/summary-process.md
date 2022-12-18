@@ -63,6 +63,13 @@ The obvious advantage of network-centric is the accessibility of information fro
 Clearly, information stored on a cloud can be shared easily, but this approach raises major concerns: Is the information safe and secure? Is it accessible when we need it? Do we still own it?
 =============================================================================================
 
+In the next few years, the focus of cloud computing is expected to shift from building the infrastructure, today's main front of competition among the vendors, to the application domain.
+    => Vendor - A person or company offering something for sale, especially a trader in the street
+
+This shift in focus reflected by Google's strategy to build a dedicated cloud for government organizations in the United States
+
+The company states: "We recognize that government agencies have unique regulatory and compliance requirements for IT systems, and cloud computing is no exception. So we've invested a lot of time in understanding government's needs and how they relate to cloup computing."
+	=> State - To say or write something, espcially cleary and carefully
 <!--
 CHAPTER 1 Introduction 1
 -->
