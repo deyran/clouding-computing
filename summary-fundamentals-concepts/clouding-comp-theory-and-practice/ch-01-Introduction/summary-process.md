@@ -81,6 +81,11 @@ This insight leads us to believe that several new classes of cloud computing app
     => Lead - To guide the actions of a person or group
 =============================================================================================
 
+As always, a good idea has generated a hight level of excitement that translated into a flurry of publications - some of a scholarly depth, others, with little merit or even bursting with misinformation.
+     => Excitement - Is a feeling or situation full of activity, joy, exhilaration, or upheaval. One thing about excitement - it sure isn't boring
+    => Flurry - a sudden commotion or burst of activity
+    => Sholarly - Book or article contains a lot of academic information and is intended for academic readers
+
 <!--
 CHAPTER 1 Introduction 1
 -->
