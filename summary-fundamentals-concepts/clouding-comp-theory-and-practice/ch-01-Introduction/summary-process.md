@@ -94,6 +94,16 @@ In this book we attempt to sift through the large volume of information and diss
 We first discuss applications of clouding computing and the analyze the infrastructure for the technology.    
 =============================================================================================
 
+Several decades of research in parallel and distributed computing have paved the way for cloud computing.
+    => Paved the way - To make it possible for someone to do something or for something to happen
+
+Through the years we have discovered the challenges posed by the implementation, as well as the algorithmic level, and the ways to address some of them and avoid the others
+
+    => Pose - To cause something, especially a problem or difficulty
+    => Address -> Synonyms - deal with
+
+Thus, it is important to look back at the lessons we learned from this experience through the years; for this reason we start our discussion with an overview of parallel computing and distributed systems
+
 <!--
 CHAPTER 1 Introduction 3
 -->
