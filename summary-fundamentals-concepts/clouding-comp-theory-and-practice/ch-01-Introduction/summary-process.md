@@ -72,6 +72,12 @@ The company states: "We recognize that government agencies have unique regulator
 	=> State - To say or write something, espcially cleary and carefully
 =============================================================================================
 
+In a discussion of technology trends, noted computer scientist Jim Gray emphasized that in 2003 the cost of communication in a wide area network had decreased dramatically and will continue to do so.
+
+Thus, it makes economical sense to store the data near the application - in other words, to store it in the cloud where the application runs.
+
+This insight leads us to believe that several new classes of cloud computing applications could emerge in the next few years.
+
 <!--
 CHAPTER 1 Introduction 1
 -->
